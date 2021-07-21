@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="Loader">
+        <attr name="loader_type">
+            <enum name="normal" value="0" />
+            <enum name="home" value="1" />
+            <enum name="search" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
